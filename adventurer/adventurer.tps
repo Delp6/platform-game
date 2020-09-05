@@ -181,17 +181,17 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">adventurer_action_left.png</key>
-            <key type="filename">adventurer_action_right.png</key>
-            <key type="filename">adventurer_jump_left.png</key>
-            <key type="filename">adventurer_jump_right.png</key>
-            <key type="filename">adventurer_kick_left.png</key>
-            <key type="filename">adventurer_kick_right.png</key>
-            <key type="filename">adventurer_stand.png</key>
-            <key type="filename">adventurer_walk_left1.png</key>
-            <key type="filename">adventurer_walk_left2.png</key>
-            <key type="filename">adventurer_walk_right1.png</key>
-            <key type="filename">adventurer_walk_right2.png</key>
+            <key type="filename">64w/adventurer_action_left.png</key>
+            <key type="filename">64w/adventurer_action_right.png</key>
+            <key type="filename">64w/adventurer_jump_left.png</key>
+            <key type="filename">64w/adventurer_jump_right.png</key>
+            <key type="filename">64w/adventurer_kick_left.png</key>
+            <key type="filename">64w/adventurer_kick_right.png</key>
+            <key type="filename">64w/adventurer_stand.png</key>
+            <key type="filename">64w/adventurer_walk_left1.png</key>
+            <key type="filename">64w/adventurer_walk_left2.png</key>
+            <key type="filename">64w/adventurer_walk_right1.png</key>
+            <key type="filename">64w/adventurer_walk_right2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -200,16 +200,16 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>20,28,40,55</rect>
+                <rect>16,22,32,44</rect>
                 <key>scale9Paddings</key>
-                <rect>20,28,40,55</rect>
+                <rect>16,22,32,44</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>.</filename>
+            <filename>64w</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
