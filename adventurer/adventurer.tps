@@ -95,7 +95,7 @@
         <key>fixedTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>-1</int>
+            <int>64</int>
             <key>height</key>
             <int>-1</int>
         </QSize>
@@ -209,7 +209,17 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>64w</filename>
+            <filename>64w/adventurer_action_left.png</filename>
+            <filename>64w/adventurer_action_right.png</filename>
+            <filename>64w/adventurer_jump_left.png</filename>
+            <filename>64w/adventurer_jump_right.png</filename>
+            <filename>64w/adventurer_kick_left.png</filename>
+            <filename>64w/adventurer_kick_right.png</filename>
+            <filename>64w/adventurer_stand.png</filename>
+            <filename>64w/adventurer_walk_left1.png</filename>
+            <filename>64w/adventurer_walk_left2.png</filename>
+            <filename>64w/adventurer_walk_right1.png</filename>
+            <filename>64w/adventurer_walk_right2.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
