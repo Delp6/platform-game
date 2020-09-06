@@ -1,0 +1,776 @@
+{
+	"textures": [
+		{
+			"image": "goelm.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 4860,
+				"h": 90
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Golem_01_Walking_lefT_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_lefT_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 135,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 270,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 405,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 540,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 675,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 810,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 945,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1080,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1215,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1350,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1485,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1620,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1755,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1890,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2025,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2160,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_left_017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2295,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2430,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2565,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2700,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2835,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 2970,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 3105,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 3240,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 3375,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 3510,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 3645,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 3780,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 3915,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 4050,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 4185,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 4320,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 4455,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 4590,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Golem_01_Walking_right_017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 4725,
+						"y": 0,
+						"w": 135,
+						"h": 90
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4d6affaa5f1b6b93e06dcf12e363e085:d9eb5f0b5625631623affcd46762cc18:728b5ab4565c2b12147edef88463100c$"
+	}
+}

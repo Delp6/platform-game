@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "adventurer.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 64,
+				"h": 968
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "adventurer_action_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_action_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 88,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_jump_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_jump_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 264,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_kick_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 352,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_kick_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 440,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_stand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 528,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_walk_left1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 616,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_walk_left2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 704,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_walk_right1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 792,
+						"w": 64,
+						"h": 88
+					}
+				},
+				{
+					"filename": "adventurer_walk_right2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 880,
+						"w": 64,
+						"h": 88
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e0e1425b07785e7bce9d3a03116f1e49:d3c12ca4f737a1aa1f08191555793f43:932c9555d40b6febc8dc495067cbaa4d$"
+	}
+}
