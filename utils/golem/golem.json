@@ -10,7 +10,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Golem_01_Walking_000_left.png",
+					"filename": "Golem_01_Walking_lefT_004.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -31,7 +31,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_000_right.png",
+					"filename": "Golem_01_Walking_lefT_005.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -52,7 +52,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_001_left.png",
+					"filename": "Golem_01_Walking_left_000.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -73,7 +73,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_001_right.png",
+					"filename": "Golem_01_Walking_left_001.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -94,7 +94,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_002_left.png",
+					"filename": "Golem_01_Walking_left_002.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -115,7 +115,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_002_right.png",
+					"filename": "Golem_01_Walking_left_003.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -136,7 +136,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_003_left.png",
+					"filename": "Golem_01_Walking_left_006.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -157,7 +157,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_003_right.png",
+					"filename": "Golem_01_Walking_left_007.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -178,7 +178,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_004_left.png",
+					"filename": "Golem_01_Walking_left_008.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -199,7 +199,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_004_right.png",
+					"filename": "Golem_01_Walking_left_009.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -220,7 +220,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_005_left.png",
+					"filename": "Golem_01_Walking_left_010.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -241,7 +241,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_005_right.png",
+					"filename": "Golem_01_Walking_left_011.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -262,7 +262,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_006_left.png",
+					"filename": "Golem_01_Walking_left_012.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -283,7 +283,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_006_right.png",
+					"filename": "Golem_01_Walking_left_013.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -304,7 +304,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_007_left.png",
+					"filename": "Golem_01_Walking_left_014.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -325,7 +325,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_007_right.png",
+					"filename": "Golem_01_Walking_left_015.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -346,7 +346,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_008_left.png",
+					"filename": "Golem_01_Walking_left_016.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -367,7 +367,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_008_right.png",
+					"filename": "Golem_01_Walking_left_017.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -388,7 +388,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_009_left.png",
+					"filename": "Golem_01_Walking_right_000.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -409,7 +409,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_009_right.png",
+					"filename": "Golem_01_Walking_right_001.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -430,7 +430,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_010_left.png",
+					"filename": "Golem_01_Walking_right_002.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -451,7 +451,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_010_right.png",
+					"filename": "Golem_01_Walking_right_003.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -472,7 +472,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_011_left.png",
+					"filename": "Golem_01_Walking_right_004.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -493,7 +493,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_011_right.png",
+					"filename": "Golem_01_Walking_right_005.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -514,7 +514,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_012_left.png",
+					"filename": "Golem_01_Walking_right_006.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -535,7 +535,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_012_right.png",
+					"filename": "Golem_01_Walking_right_007.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -556,7 +556,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_013_left.png",
+					"filename": "Golem_01_Walking_right_008.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -577,7 +577,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_013_right.png",
+					"filename": "Golem_01_Walking_right_009.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -598,7 +598,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_014_left.png",
+					"filename": "Golem_01_Walking_right_010.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -619,7 +619,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_014_right.png",
+					"filename": "Golem_01_Walking_right_011.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -640,7 +640,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_015_left.png",
+					"filename": "Golem_01_Walking_right_012.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -661,7 +661,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_015_right.png",
+					"filename": "Golem_01_Walking_right_013.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -682,7 +682,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_016_left.png",
+					"filename": "Golem_01_Walking_right_014.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -703,7 +703,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_016_right.png",
+					"filename": "Golem_01_Walking_right_015.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -724,7 +724,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_017_left.png",
+					"filename": "Golem_01_Walking_right_016.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -745,7 +745,7 @@
 					}
 				},
 				{
-					"filename": "Golem_01_Walking_017_right.png",
+					"filename": "Golem_01_Walking_right_017.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -771,6 +771,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:f0ec880334584583158dc0dc9d3f1c26:2ffd886a763c26913c45a53047868374:728b5ab4565c2b12147edef88463100c$"
+		"smartupdate": "$TexturePacker:SmartUpdate:4d6affaa5f1b6b93e06dcf12e363e085:d9eb5f0b5625631623affcd46762cc18:728b5ab4565c2b12147edef88463100c$"
 	}
 }

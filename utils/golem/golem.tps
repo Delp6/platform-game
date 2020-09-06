@@ -181,42 +181,42 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">golemLeft/Golem_01_Walking_000_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_001_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_002_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_003_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_004_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_005_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_006_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_007_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_008_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_009_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_010_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_011_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_012_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_013_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_014_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_015_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_016_left.png</key>
-            <key type="filename">golemLeft/Golem_01_Walking_017_left.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_000_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_001_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_002_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_003_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_004_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_005_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_006_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_007_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_008_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_009_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_010_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_011_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_012_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_013_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_014_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_015_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_016_right.png</key>
-            <key type="filename">golemRight/Golem_01_Walking_017_right.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_lefT_004.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_lefT_005.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_000.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_001.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_002.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_003.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_006.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_007.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_008.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_009.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_010.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_011.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_012.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_013.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_014.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_015.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_016.png</key>
+            <key type="filename">golemLeft/Golem_01_Walking_left_017.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_000.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_001.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_002.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_003.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_004.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_005.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_006.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_007.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_008.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_009.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_010.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_011.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_012.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_013.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_014.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_015.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_016.png</key>
+            <key type="filename">golemRight/Golem_01_Walking_right_017.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -234,42 +234,42 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>golemRight/Golem_01_Walking_000_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_001_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_002_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_003_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_004_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_005_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_006_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_007_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_008_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_009_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_010_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_011_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_012_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_013_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_014_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_015_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_016_right.png</filename>
-            <filename>golemRight/Golem_01_Walking_017_right.png</filename>
-            <filename>golemLeft/Golem_01_Walking_000_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_001_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_002_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_003_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_004_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_005_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_006_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_007_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_008_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_009_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_010_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_011_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_012_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_013_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_014_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_015_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_016_left.png</filename>
-            <filename>golemLeft/Golem_01_Walking_017_left.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_000.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_001.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_002.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_003.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_004.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_005.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_006.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_007.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_008.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_009.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_010.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_011.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_012.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_013.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_014.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_015.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_016.png</filename>
+            <filename>golemRight/Golem_01_Walking_right_017.png</filename>
+            <filename>golemLeft/Golem_01_Walking_lefT_004.png</filename>
+            <filename>golemLeft/Golem_01_Walking_lefT_005.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_000.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_001.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_002.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_003.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_006.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_007.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_008.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_009.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_010.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_011.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_012.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_013.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_014.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_015.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_016.png</filename>
+            <filename>golemLeft/Golem_01_Walking_left_017.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
