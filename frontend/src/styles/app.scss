@@ -1,0 +1,14 @@
+$default-font: 'Roboto';
+
+body {
+  font-family: $default-font;
+  margin: 0;
+}
+
+.MuiLink-root {
+  text-transform: uppercase;
+}
+
+#root {
+  height: 100vh !important;
+}
