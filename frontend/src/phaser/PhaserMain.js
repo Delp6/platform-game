@@ -356,10 +356,6 @@ const PhaserMain = () => {
             lost = false;
             gameLostText.setVisible(false)
         }
-
-        if (battleLost) {
-            this.physics.world.removeCollider(playerPlatformsCollider);
-        }
     }
 
     function collectCoin(player, coin) {
@@ -385,10 +381,13 @@ const PhaserMain = () => {
         }, 300)
         if (cursors.space.isDown ) {
             clearTimeout(timer);
+            playerGolem1Collider.destroy();
             this.physics.world.removeCollider(golem1PlatformsCollider)
-            this.physics.world.removeCollider(playerGolem1Collider)
             score = score + 1;
             scoreText.setText("Score: " + score);
+        }
+        if (battleLost && playerGolem1Collider.active) {
+            this.physics.world.removeCollider(playerPlatformsCollider);
         }
     }
 
@@ -398,10 +397,13 @@ const PhaserMain = () => {
         }, 300)
         if (cursors.space.isDown ) {
             clearTimeout(timer);
+            playerGolem2Collider.destroy();
             this.physics.world.removeCollider(golem2PlatformsCollider)
-            this.physics.world.removeCollider(playerGolem2Collider)
             score = score + 1;
             scoreText.setText("Score: " + score);
+        }
+        if (battleLost && playerGolem2Collider.active) {
+            this.physics.world.removeCollider(playerPlatformsCollider);
         }
     }
 
@@ -409,12 +411,15 @@ const PhaserMain = () => {
         let timer = setTimeout(function () {
             battleLost = true;
         }, 300)
-        if (cursors.space.isDown) {
+        if (cursors.space.isDown ) {
             clearTimeout(timer);
+            playerGolem3Collider.destroy();
             this.physics.world.removeCollider(golem3PlatformsCollider)
-            this.physics.world.removeCollider(playerGolem3Collider)
             score = score + 1;
             scoreText.setText("Score: " + score);
+        }
+        if (battleLost && playerGolem3Collider.active) {
+            this.physics.world.removeCollider(playerPlatformsCollider);
         }
     }
 
@@ -424,10 +429,13 @@ const PhaserMain = () => {
         }, 300)
         if (cursors.space.isDown) {
             clearTimeout(timer);
+            playerGolem3Collider.destroy();
             this.physics.world.removeCollider(golem4PlatformsCollider)
-            this.physics.world.removeCollider(playerGolem4Collider)
             score = score + 1;
             scoreText.setText("Score: " + score);
+        }
+        if (battleLost && playerGolem4Collider.active) {
+            this.physics.world.removeCollider(playerPlatformsCollider);
         }
     }
 
