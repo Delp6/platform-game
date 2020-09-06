@@ -429,7 +429,7 @@ const PhaserMain = () => {
         }, 300)
         if (cursors.space.isDown) {
             clearTimeout(timer);
-            playerGolem3Collider.destroy();
+            playerGolem4Collider.destroy();
             this.physics.world.removeCollider(golem4PlatformsCollider)
             score = score + 1;
             scoreText.setText("Score: " + score);
