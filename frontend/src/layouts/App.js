@@ -3,9 +3,8 @@ import '../styles/app.scss';
 import {BrowserRouter as Router} from "react-router-dom";
 import createMuiTheme from "@material-ui/core/styles/createMuiTheme";
 import ThemeProvider from "@material-ui/styles/ThemeProvider";
-import TopNavigation from "./TopNavigation";
 import Footer from "./Footer";
-import Page from "./Page";
+import GamePage from "../Pages/GamePage";
 
 function App() {
 
@@ -33,8 +32,7 @@ function App() {
     return (
         <ThemeProvider theme={theme}>
             <Router style={{minHeight: "100vh"}}>
-                <TopNavigation/>
-                <Page style={{minHeight: "100%"}}/>
+                <GamePage style={{minHeight: "100%"}}/>
                 <Footer/>
             </Router>
         </ThemeProvider>

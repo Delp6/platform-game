@@ -154,13 +154,14 @@ const PhaserMain = () => {
 
         // lost/win text
         gameWinText1 = this.add.text(400, 150, "You win!", {fontSize: '72px', color: 'black'}).setScrollFactor(0, 0);
-        gameWinText2 = this.add.text(360, 220, "Press: P to add your score to board.", {
+        /*TODO ADD SCORE BOARD*/
+        /*gameWinText2 = this.add.text(360, 220, "Press: P to add your score to board.", {
             fontSize: '20px',
             color: 'black'
         }).setScrollFactor(0, 0);
+        gameWinText2.setVisible(false)*/
         gameLostText = this.add.text(400, 150, "You lost!", {fontSize: '72px', color: 'black'}).setScrollFactor(0, 0);
         gameWinText1.setVisible(false)
-        gameWinText2.setVisible(false)
         gameLostText.setVisible(false)
 
         //camera
@@ -235,7 +236,7 @@ const PhaserMain = () => {
 
         if (win) {
             gameWinText1.setVisible(true)
-            gameWinText2.setVisible(true)
+            //gameWinText2.setVisible(true)
         }
         if (lost) {
             gameLostText.setVisible(true)
@@ -291,7 +292,7 @@ const PhaserMain = () => {
         /*restart*/
         if (resetKey.isDown) {
             gameWinText1.setVisible(false)
-            gameWinText2.setVisible(false)
+            //gameWinText2.setVisible(false)
             gameLostText.setVisible(false)
             lost = false;
             win = false;

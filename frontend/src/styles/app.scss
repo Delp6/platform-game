@@ -12,3 +12,18 @@ body {
 #root {
   height: 100vh !important;
 }
+
+.MuiToolbar-root {
+  align-items: center;
+  min-height: 64px;
+  max-height: 64px;
+}
+a {
+  color: white;
+}
+canvas {
+  display: block;
+  margin: auto;
+  padding-top: 10px;
+}
+
