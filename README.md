@@ -1,3 +1,3 @@
 # platform-game
 
-This is simple platform game created in phaser3 a javaScript game engine. 
+This is a simple platform game created in the phaser3, JavaScript game engine. 
