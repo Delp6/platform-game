@@ -35,7 +35,6 @@ const PhaserMain = () => {
     let resetKey;
     let addScoreKey;
     let gameWinText1;
-    let gameWinText2;
     let gameLostText;
 
 
@@ -92,7 +91,7 @@ const PhaserMain = () => {
         coinLayer = map.getObjectLayer('Coins')['objects'];
         coins = this.physics.add.staticGroup()
         coinLayer.forEach(object => {
-            const coin = coins.create(object.x, object.y + 200 - object.height, 'coin').setOrigin(0, 0);
+            coins.create(object.x, object.y + 200 - object.height, 'coin').setOrigin(0, 0);
         });
         // golems layer
         golemsLayer = map.getObjectLayer('GolemsCollision')['objects']
@@ -297,6 +296,7 @@ const PhaserMain = () => {
             lost = false;
             win = false;
             battleLost = false;
+            score = 0;
             this.scene.restart();
         }
         /*add score*/
