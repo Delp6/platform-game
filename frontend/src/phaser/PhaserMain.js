@@ -129,7 +129,7 @@ const PhaserMain = () => {
         scoreText = this.add.text(16, 16, "Score: 0", {fontSize: '32px', color: 'black'});
         scoreText.setScrollFactor(0, 0)
         // restart text
-        this.add.text(580, 16, "restart: R", {fontSize: '32px', color: 'black'}).setScrollFactor(0, 0)
+        this.add.text(700, 16, "restart: R", {fontSize: '32px', color: 'black'}).setScrollFactor(0, 0)
         // controls
         this.add.text(16, 600, "arrows - move", {fontSize: '32px', color: 'black'})
         this.add.text(16, 632, "space - attack", {fontSize: '32px', color: 'black'})
