@@ -2,7 +2,7 @@ import React from "react";
 import PhaserMain from "../phaser/PhaserMain";
 import {useTheme} from "@material-ui/core";
 import useMediaQuery from '@material-ui/core/useMediaQuery';
-import {ScreenToSmall} from "../components/ScreenToSmall";
+import {ScreenTooSmall} from "../components/ScreenTooSmall";
 
 const GamePage = () => {
 
@@ -19,7 +19,7 @@ const GamePage = () => {
             alignItems: "center"
         }}>
             {(minHeight && minWidth) && <PhaserMain/>}
-            {(!minHeight || !minWidth) && <ScreenToSmall/>}
+            {(!minHeight || !minWidth) && <ScreenTooSmall/>}
         </div>
     )
 }

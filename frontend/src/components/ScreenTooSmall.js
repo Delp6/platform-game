@@ -2,7 +2,7 @@ import React from "react";
 import DesktopAccessDisabledIcon from '@material-ui/icons/DesktopAccessDisabled';
 
 
-export const ScreenToSmall = () => {
+export const ScreenTooSmall = () => {
 
     return (
         <div style={{color: "white", fontSize: "3rem", textAlign: "center"}}>
